@@ -1,5 +1,7 @@
 # ChartView
 ## PieView
+### 效果
+![效果图](preview.jpg)
 ### 使用
 gradle
 ```
